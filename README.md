@@ -1,14 +1,25 @@
-Instagram-Bot-Chrome-Extention
+# Instagram-Bot-Chrome-Extention
+
 Creating my own Google Chrome Extention for Instagram Flow Automation.
 
 I am working on:
 
 -Auto Likes
+-
 Auto likes are working now.
 
--Auto Follow
+
+-Auto Follow 
+-
+
+
 -Auto Unfollow
-I am investigating on how to upload the extension to the official store. For now it can be loaded activating developer mode uploading a package.
+-
+
+
+
+  I am investigating on how to upload the extension to the official store.
+  For now it can be loaded activating developer mode uploading a package.
 
 There are some rules to go under the radar, not get banned, and some using advice. I am gonna be listing the most important ones:
 
@@ -20,7 +31,8 @@ There are some rules to go under the radar, not get banned, and some using advic
 
 -In case of multiple accounts:
 
--Create accounts that DO NOT have similar names, example: GithubHero1, GithubHero2, GithubHero3. (Instagram will assume these are the same)
+-Create accounts that DO NOT have similar names, example: GithubHero1, GithubHero2, GithubHero3. (Instagram will assume these are the 
+same)
 
 -Images and captions for all your accounts must be at least slightly different.
 
@@ -41,3 +53,5 @@ There are some rules to go under the radar, not get banned, and some using advic
 -The automation of your instagram account should look as human as possible. don't let the automations running 24 hours.
 
 -Promote using comment is not recommendable. But if you are willing to take the risk, good luck.
+
+
